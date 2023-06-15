@@ -17,7 +17,7 @@ const firebaseConfig = {
   projectId: "xxxxxxxxxxxxxxxxxxxxx",
   storageBucket: "xxxxxxxxxxxxxxxxxxxxx",
   messagingSenderId: "xxxxxxxxxx",
-  appId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  appId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",//App ID from the firebase
 };
 
 
