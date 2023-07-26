@@ -103,7 +103,7 @@ function filteredCards(category){
                 deleteEvent();
             })
             .catch(error => {
-                console.log(error);
+                console.log(error);   
             });
     }
 }
